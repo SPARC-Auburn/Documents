@@ -2,7 +2,8 @@
 
 If you need any documents for SPARC, get them here!
 <h3>Documents overview</h3>
-SPARC- Wishlist: This is a list of parts that SPARC needs or wants to buy in the future.</br></br>
+SPARC- Wishlist: This is a list of parts that SPARC needs or wants to buy in the future.</br>
+Fostering.Undergraduate.Research.through.a.Student.Projects.and.Research.Club.PDF: Document written by Auburn professors about SPARC</br>
 SPARC- Signup-Sheet: This is a spreadsheet so that those who are not involved could find out more information about our organization and how to join.</br>
 Flyer: This is our promotional flyer that we post around campus and give tour groups.</br>
 
